@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yermukhammed
-- 👀 I’m interested in Deep Learning and Classifcal Data Science
+- 👀 I’m interested in Deep Learning and Classical Data Science
 
 - 📫 I am available at telegram @yerma12
 
